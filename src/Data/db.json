@@ -1,0 +1,80 @@
+{
+  "notes": [
+    {
+      "title": "Complete my ninja training",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
+      "category": "Not Important",
+      "id": 2
+    },
+    {
+      "title": "Order a pizza!",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "Very Important",
+      "id": 3
+    },
+    {
+      "title": "Buy Bread",
+      "details": "Buy a loaf of bread from Ostrich Bakery",
+      "category": "Kind Of Important",
+      "id": 5
+    },
+    {
+      "title": "gmgireov",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "Important",
+      "id": 18
+    },
+    {
+      "title": "Movies",
+      "details": "Watch movies",
+      "category": "Important",
+      "id": 20
+    },
+    {
+      "title": "Create a notes App",
+      "details": "IOJI",
+      "category": "A Bit Important",
+      "id": 21
+    },
+    {
+      "title": "Go to it central",
+      "details": "WIF RSFG",
+      "category": "Not Important",
+      "id": 22
+    },
+    {
+      "title": "kkkkkn ",
+      "details": "oiuuhiu",
+      "category": "A Bit Important",
+      "id": 23
+    },
+    {
+      "title": "DXBVD",
+      "details": "FFBVVFX",
+      "category": "Important",
+      "id": 24
+    }
+  ],
+  "todo": [
+    {
+      "list": "bread",
+      "id": 1,
+      "checked": true
+    },
+    {
+      "list": "Coca-Cola",
+      "id": 2,
+      "checked": true
+    },
+    {
+      "list": "Coca-Cola",
+      "id": 3,
+      "checked": true
+    },
+    {
+      "list": "Ibrahim Aliyu ",
+      "id": 4,
+      "checked": true
+    }
+  ]
+}
