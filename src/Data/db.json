@@ -1,58 +1,76 @@
 {
   "notes": [
     {
-      "title": "Complete my ninja training",
-      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
-      "category": "Not Important",
+      "title": "Build a to-do list app",
+      "details": "build a to-do list app",
+      "category": "Important",
+      "id": 1
+    },
+    {
+      "title": "Sleep by 10pm today!",
+      "details": "you have to sleep early because you are going to have a long day tomorrow",
+      "category": "A Bit Important",
       "id": 2
     },
     {
-      "title": "Order a pizza!",
-      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-      "category": "Very Important",
+      "title": "Don't forget to have breakfast",
+      "details": "You need to eat breakfast!!",
+      "category": "Not Important",
       "id": 3
     },
     {
-      "title": "Buy Bread",
-      "details": "Buy a loaf of bread from Ostrich Bakery",
+      "title": "This is awesome",
+      "details": "I built this ",
+      "category": "Very Important",
+      "id": 4
+    },
+    {
+      "title": "This is a title",
+      "details": "I am just trying to test this",
       "category": "Kind Of Important",
       "id": 5
     },
     {
-      "title": "gmgireov",
-      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "title": "Color coded",
+      "details": "I like the fact that i thought of using color to show the level of urgency",
       "category": "Important",
-      "id": 18
+      "id": 6
     },
     {
-      "title": "Movies",
-      "details": "Watch movies",
+      "title": "Lorem",
+      "details": "i am to lazy to get a lorem text",
       "category": "Important",
-      "id": 20
+      "id": 7
     },
     {
-      "title": "Create a notes App",
-      "details": "IOJI",
-      "category": "A Bit Important",
-      "id": 21
+      "title": "What is Lorem?",
+      "details": "\n\nfreestar\nWhat is Lorem Ipsum?\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+      "category": "Important",
+      "id": 8
     },
     {
-      "title": "Go to it central",
-      "details": "WIF RSFG",
+      "title": "Ibrahim Aliyu",
+      "details": "My name is Ibrahim Aliyu and i am a 20 year old web application developer",
+      "category": "Very Important",
+      "id": 9
+    },
+    {
+      "title": "I wannnaaaa sleeeeeep!",
+      "details": "I wannnnnaaaaa sleeeeeep!",
       "category": "Not Important",
-      "id": 22
+      "id": 10
     },
     {
-      "title": "kkkkkn ",
-      "details": "oiuuhiu",
-      "category": "A Bit Important",
-      "id": 23
+      "title": "You can have a lot of these",
+      "details": "Cheers to google, stackoverflow!",
+      "category": "Not Important",
+      "id": 11
     },
     {
-      "title": "DXBVD",
-      "details": "FFBVVFX",
-      "category": "Important",
-      "id": 24
+      "title": "is chatgpt making you lazy?",
+      "details": "I dont really know yet. but i will find out soon enough",
+      "category": "Kind Of Important",
+      "id": 12
     }
   ],
   "todo": [
