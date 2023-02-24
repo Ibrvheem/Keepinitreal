@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Keepinitreal/static/css/main.0710ab38.css",
+    "main.js": "/Keepinitreal/static/js/main.48455a83.js",
+    "index.html": "/Keepinitreal/index.html",
+    "main.0710ab38.css.map": "/Keepinitreal/static/css/main.0710ab38.css.map",
+    "main.48455a83.js.map": "/Keepinitreal/static/js/main.48455a83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0710ab38.css",
+    "static/js/main.48455a83.js"
+  ]
+}
